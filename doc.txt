@@ -1,0 +1,9 @@
+{  "Key1" : " ProtiTimi" , "Key2" : "DeuteriTimi" , "Key3" : 7}
+{  "Key1" : " TetartiTimi" , "Key2" : "PemptiTimi" , "Key3" : 2}
+{  "Key1" : " EvdomiTimi" , "Key2" : "OgdoiTimi" , "Key3" : 1}
+{  "Key1" : "a" , "Key2" : "vav" , "Key3" : 13}
+{  "Key1" : "RandomVal" , "Key2" : "RandomValue" , "Key3" : 0}
+{  "Key1" : "TimiTimiTimiTimi" , "Key2" : "Blank" , "Key3" : 123}
+{  "Key1" : "Tim" , "Key2" : "MiaTimi" , "Key3" : 86}
+{  "Key1" : "a" , "Key2" : "w" , "Key3" : 111}
+{  "Key1" : "Val" , "Key2" : "ww" , "Key3" : -99}
